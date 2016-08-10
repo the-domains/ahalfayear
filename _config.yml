@@ -1,4 +1,3 @@
-layout_spectrum: 0.37335794093087316
 typography_spectrum: 0.586011425126344
 color:
   brandStrength: 0.6562964208424091
@@ -6,9 +5,11 @@ color:
   saturation: 0.4283995085861534
   rhythmicContrast: 0.9286563419736922
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
+layout_spectrum: 0.37335794093087316
 name: aHalf|aYear
+title: aHalf|aYear
